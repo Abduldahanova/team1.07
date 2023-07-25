@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+   
+}
+
+.link {
+    padding: 18px;
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; 
+    letter-spacing: 0.32px;
+    text-decoration: none;
+}
+
+.logo {
+    margin: 0;
+    background-color: #fff;
+}
+.logo > h1 {
+    margin: 0 10px;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; 
+    letter-spacing: 0.32px;
+}
+.letter {
+    background-color: #000000;
+    color: #ffffff;
+}
+.regist {
+    margin-left: 200px;
+}

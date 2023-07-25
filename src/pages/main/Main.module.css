@@ -1,0 +1,8 @@
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0px 0 90px;
+}
+.pic {
+    margin-left: 250px;
+}
